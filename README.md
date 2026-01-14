@@ -50,13 +50,13 @@ I prefer building **simple, correct, and maintainable systems** over flashy but 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SagarXdev23&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SagarXdev23&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SagarXdev23&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagarXdev23&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagarXdev23&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
+
 
 ---
 
