@@ -1,3 +1,8 @@
+<!-- Header Animation (Local GIF) -->
+<p align="center">
+  <img src="assets/header.gif" alt="Header animation" />
+</p>
+
 # Sagar Mishra
 
 **Software Engineering Student | Java Backend Focus**
@@ -6,11 +11,10 @@
 
 ## About
 
-I am a computer science student focused on **Java-based backend development** with a strong emphasis on  
-**data structures, problem solving, and writing clean, maintainable code**.
+I am a computer science student focused on **Java-based backend development**, with strong emphasis on  
+**data structures, problem-solving, and writing clean, maintainable code**.
 
-I prefer clarity over cleverness and consistency over shortcuts.  
-My goal is to build solid fundamentals and grow into a reliable software engineer through real projects and daily practice.
+I believe in building **solid fundamentals**, keeping systems simple, and improving through consistent daily effort rather than shortcuts or hype.
 
 ---
 
@@ -30,35 +34,43 @@ My goal is to build solid fundamentals and grow into a reliable software enginee
 - MySQL
 
 **Tools & Environment**
-- Git & GitHub
-- IntelliJ IDEA
-- VS Code
-- Linux
-- Windows
+- Git & GitHub  
+- IntelliJ IDEA  
+- VS Code  
+- Linux  
+- Windows  
 
 ---
 
 ## Current Focus
 
 - Strengthening **DSA using Java**
-- Building **console and backend-oriented Java projects**
-- Improving code structure, readability, and documentation
+- Building **console-based and backend-oriented Java projects**
+- Writing cleaner code with better structure and documentation
 - Preparing for **internships and entry-level software roles**
 
 ---
 
 ## Projects
 
-> Projects are actively being built and improved.  
-> Each repository focuses on correctness, structure, and clear problem-solving rather than unnecessary complexity.
+Pinned repositories represent:
+- Core Java understanding
+- Data structures and algorithm practice
+- Small but complete and well-structured applications
 
-Pinned repositories reflect my current learning and work.
+Each project prioritizes **clarity, correctness, and maintainability** over unnecessary complexity.
 
 ---
 
-## Contribution Activity
+## GitHub Activity
 
 I aim to maintain **consistent daily contributions**, even if small, to reinforce discipline and long-term growth.
+
+---
+
+## Contribution Activity (Animated)
+
+<img src="https://raw.githubusercontent.com/SagarXdev23/SagarXdev23/output/github-contribution-grid-snake.svg" />
 
 ---
 
@@ -69,4 +81,4 @@ I am open to:
 - Collaborative projects
 - Technical discussions
 
-If you value **consistency, clear thinking, and steady improvement**, we’ll likely work well together.
+If you value **consistency, clear thinking, and long-term improvement**, we’ll likely work well together.
