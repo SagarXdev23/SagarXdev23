@@ -52,23 +52,28 @@
 ## 📊 GitHub Stats (Proof of Work)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SagarXdev23&show_icons=true&theme=tokyonight&cache_seconds=1800" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SagarXdev23&theme=tokyonight" height="165"/>
 </p>
+
 
 ---
 
 ## 📈 Most Used Languages
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagarXdev23&layout=compact&theme=tokyonight&langs_count=8"/>
 </p>
+
 
 ---
 
 ## 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SagarXdev23&theme=tokyonight&no-frame=true&row=1"/>
 </p>
+
 
 ---
 
