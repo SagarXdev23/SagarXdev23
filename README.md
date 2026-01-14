@@ -1,38 +1,76 @@
-# Welcome to the Programming world of Sagar 
+<!-- Animated Header -->
+<h1 align="center">
+  Hi 👋, I'm Sagar Mishra
+</h1>
 
-Hi, I'm **Sagar Mishra** — a tech enthusiast and passionate programmer exploring the diverse realms of the programming world.  
-I specialize in **Java**, **Python**, and **C**, and I love turning ideas into code while aspiring to solve real-world problems through software.  
+<h3 align="center">
+  🚀 Aspiring Software Engineer | Java & Backend Focused
+</h3>
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Java+Developer;Problem+Solver;Learning+Full+Stack+Development;Open+Source+Enthusiast" />
+</p>
 
 ---
 
-## 🌟 About Me
-- 🔭 **Currently Learning:** JavaScript, Full-Stack Development  
-- 💾 **Databases:** MySQL  
-- 🐧 **Experience:** Linux commands and systems  
-- 🎯 **Goals for 2025:** Build impactful projects and collaborate with the open-source community  
-- ⚡ **Fun Fact:** Debugging is like solving a mystery, and I enjoy every bit of it 🕵️‍♂️  
+## 🧠 About Me
+
+- 💻 Strong foundation in **Java, Python & C**
+- 🌱 Currently learning **JavaScript & Full-Stack Development**
+- 🗃️ Working with **MySQL**
+- 🐧 Comfortable with **Linux systems**
+- 🎯 **2025 Goal:** Build real-world projects & crack a solid tech role  
+- ⚡ Fun fact: I enjoy debugging more than writing fresh code 😄
 
 ---
 
-## 🚀 Languages and Tools
+## 🛠️ Tech Stack
 
-### 🖥️ Programming Languages  
-- ☕ Java  
-- 🐍 Python  
-- 💻 C  
-- 🌐 JavaScript (currently learning)  
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,c,javascript" />
+</p>
 
-### 🌐 Web Development  
-- HTML & CSS  
+### 🌐 Web
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css" />
+</p>
 
-### 🗃️ Databases  
-- MySQL  
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
-### ⚙️ Tools and IDEs  
-- VS Code  
-- IntelliJ IDEA  
-- Git & GitHub  
+### ⚙️ Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,linux" />
+</p>
 
-### 🐧 Operating Systems  
-- Linux  
-- Windows  
+---
+
+## 📊 GitHub Stats (Proof of Work)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="165"/>
+</p>
+
+---
+
+## 📈 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&row=1" />
+</p>
+
+---
+
+## 🤝 Let’s Connect
+- 💼 Open to **internships, collaborations & learni**
