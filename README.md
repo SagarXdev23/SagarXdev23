@@ -1,76 +1,72 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=150&section=header&text=Sagar%20Mishra&fontSize=38&fontColor=ffffff&animation=fadeIn" />
-</p>
+# Sagar Mishra
 
-<p align="center">
-  <b>Software Engineering Student • Java Backend Focus</b>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=520&color=9EE7FF&lines=Java+Backend+Developer;DSA+Focused+Problem+Solver;Building+Clean+and+Scalable+Systems;Consistent+Daily+Improvement" />
-</p>
+**Software Engineering Student | Java Backend Focus**
 
 ---
 
-## 🧠 About
+## About
 
-> I am a computer science student focused on **Java-based backend development**,  
-> with a strong emphasis on **data structures, problem-solving, and clean code**.  
->  
-> I prefer building **simple, correct, and maintainable systems** over flashy but shallow projects.  
-> My long-term goal is to grow into a **reliable and impact-driven software engineer**.
+I am a computer science student focused on **Java-based backend development** with a strong emphasis on  
+**data structures, problem solving, and writing clean, maintainable code**.
+
+I prefer clarity over cleverness and consistency over shortcuts.  
+My goal is to build solid fundamentals and grow into a reliable software engineer through real projects and daily practice.
 
 ---
 
-## 🛠️ Tech Stack
+## Technical Skills
 
-**Programming**
+**Programming Languages**
 - Java (Core Java, OOP, Collections)
 - Python
 - C
 
-**Web**
-- HTML, CSS, JavaScript (foundational)
+**Web Fundamentals**
+- HTML
+- CSS
+- JavaScript
 
 **Databases**
 - MySQL
 
 **Tools & Environment**
-- Git, GitHub  
-- IntelliJ IDEA, VS Code  
-- Linux, Windows  
+- Git & GitHub
+- IntelliJ IDEA
+- VS Code
+- Linux
+- Windows
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
-- Strengthening **DSA in Java**
-- Building **Java console and backend projects**
-- Writing **clean, readable, and well-structured code**
+- Strengthening **DSA using Java**
+- Building **console and backend-oriented Java projects**
+- Improving code structure, readability, and documentation
 - Preparing for **internships and entry-level software roles**
 
 ---
 
-## 📊 GitHub Stats
+## Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SagarXdev23&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" />
-</p>
+> Projects are actively being built and improved.  
+> Each repository focuses on correctness, structure, and clear problem-solving rather than unnecessary complexity.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagarXdev23&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</p>
+Pinned repositories reflect my current learning and work.
 
 ---
 
-## 🐍 Contribution Activity
+## Contribution Activity
 
-<img src="https://raw.githubusercontent.com/SagarXdev23/SagarXdev23/output/github-contribution-grid-snake.svg" />
+I aim to maintain **consistent daily contributions**, even if small, to reinforce discipline and long-term growth.
 
 ---
 
-## 🤝 Connect
+## Connect
 
-I am open to **internships, collaborative projects, and technical discussions**.
+I am open to:
+- Internships
+- Collaborative projects
+- Technical discussions
 
-If you value **consistency, clarity of thought, and long-term growth**, we’ll probably get along.
+If you value **consistency, clear thinking, and steady improvement**, we’ll likely work well together.
