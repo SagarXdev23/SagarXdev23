@@ -1,81 +1,73 @@
-<!-- Animated Header -->
-<h1 align="center">
-  Hi 👋, I'm Sagar Mishra
-</h1>
-
-<h3 align="center">
-  🚀 Aspiring Software Engineer | Java & Backend Focused
-</h3>
-
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Java+Developer;Problem+Solver;Learning+Full+Stack+Development;Open+Source+Enthusiast" />
-</p>
-
----
-
-## 🧠 About Me
-
-- 💻 Strong foundation in **Java, Python & C**
-- 🌱 Currently learning **JavaScript & Full-Stack Development**
-- 🗃️ Working with **MySQL**
-- 🐧 Comfortable with **Linux systems**
-- 🎯 **2025 Goal:** Build real-world projects & crack a solid tech role  
-- ⚡ Fun fact: I enjoy debugging more than writing fresh code 😄
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,c,javascript" />
-</p>
-
-### 🌐 Web
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css" />
-</p>
-
-### 🗄️ Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-### ⚙️ Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,linux" />
-</p>
-
----
-
-## 📊 GitHub Stats (Proof of Work)
+<h1 align="center">Sagar Mishra</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SagarXdev23&show_icons=true&theme=tokyonight&cache_seconds=1800" height="165"/>
+  Software Engineering Student • Java Backend Focus
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=520&lines=Java+Backend+Developer;Strong+in+DSA+and+OOP;Building+Real-World+Projects;Consistent+Daily+Improvement" />
+</p>
+
+---
+
+## About
+
+I am a computer science student focused on **Java-based backend development** with a strong emphasis on **data structures, problem solving, and clean code**.
+
+I prefer building **simple, correct, and maintainable systems** over flashy but shallow projects. My current goal is to develop production-ready skills through hands-on projects and consistent practice.
+
+---
+
+## Technical Skills
+
+**Programming**
+- Java (Core Java, OOP, Collections)
+- Python
+- C
+
+**Web**
+- HTML, CSS, JavaScript (foundational)
+
+**Databases**
+- MySQL
+
+**Tools & Environment**
+- Git, GitHub
+- IntelliJ IDEA, VS Code
+- Linux, Windows
+
+---
+
+## Current Focus
+
+- Strengthening **DSA in Java**
+- Building **Java console and backend projects**
+- Improving code quality, structure, and documentation
+- Preparing for **internships and entry-level software roles**
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SagarXdev23&show_icons=true&theme=tokyonight" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=SagarXdev23&theme=tokyonight" height="165"/>
 </p>
 
-
----
-
-## 📈 Most Used Languages
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagarXdev23&layout=compact&theme=tokyonight&langs_count=8"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagarXdev23&layout=compact&theme=tokyonight"/>
 </p>
 
+---
+
+## Contribution Activity
+
+![Snake animation](https://raw.githubusercontent.com/SagarXdev23/SagarXdev23/output/github-contribution-grid-snake.svg)
 
 ---
 
-## 🏆 GitHub Trophies
+## Connect
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SagarXdev23&theme=tokyonight&no-frame=true&row=1"/>
-</p>
+I am open to **internships, collaborative projects, and technical discussions**.
 
-
----
-
-## 🤝 Let’s Connect
-- 💼 Open to **internships, collaborations & learni**
+If you value **consistent effort, clarity of thought, and long-term growth**, we’ll probably get along.
