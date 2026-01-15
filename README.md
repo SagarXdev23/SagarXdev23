@@ -1,3 +1,10 @@
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/https://github.com/SagarXdev23/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+
 # 🌌 Programming World of Sagar
 
 Hi, I’m **Sagar Mishra** — a computer science student and passionate programmer exploring the vast space of software development.  
