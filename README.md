@@ -1,7 +1,7 @@
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/https://github.com/SagarXdev23/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/SagarXdev23/SagarXdev23/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 
