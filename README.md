@@ -1,9 +1,3 @@
-## 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SagarXdev23/SagarXdev23/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
 
 # 🌌 Programming World of Sagar
 
@@ -46,5 +40,28 @@ I work primarily with **Java**, **Python**, and **C**, and I enjoy transforming 
 - Windows  
 
 ---
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: SagarXdev23
+          outputs: |
+            assets/snake.svg
+
+      - name: Commit snake to main
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: "assets/snake.svg"
+          message: "chore: update snake animation"
+
 
 > *Quiet progress. Strong fundamentals. Long-term growth.*
