@@ -1,7 +1,7 @@
 
 
 
-# 🌌 Programming World of Sagar
+# 🌌 Code Arena...
 
 Hi, I’m **Sagar Mishra** — a computer science student and passionate programmer exploring the vast space of software development.  
 I work primarily with **Java**, **Python**, and **C**, and I enjoy transforming ideas into clean, functional code while solving real-world problems through logic and discipline.
