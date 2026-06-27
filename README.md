@@ -10,38 +10,22 @@
 
 </div>
 
----
+<br/>
 
-<img align="right" alt="Coding GIF" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+---
 
 ## 🌌 About Me
 
-```python
-class Sagar:
-    def __init__(self):
-        self.name       = "Sagar Mishra"
-        self.role       = "CS Student & Programmer"
-        self.languages  = ["Java", "Python", "C", "JavaScript"]
-        self.databases  = ["MySQL"]
-        self.os         = ["Linux", "Windows"]
-        self.learning   = "Full-Stack Development"
-        self.goal_2025  = "Build meaningful projects & open-source"
-        self.fun_fact   = "Debugging = Solving puzzles 🧩"
+<div align="center">
 
-    def motto(self):
-        return "Quiet progress. Strong fundamentals. Long-term growth."
+| 🔭 Currently Learning | JavaScript & Full-Stack Development |
+|:---|:---|
+| 💾 Databases | MySQL |
+| 🐧 Experience | Comfortable with Linux commands & environments |
+| 🎯 2025 Goal | Build meaningful projects & contribute to open-source |
+| ⚡ Fun Fact | Debugging feels like solving a puzzle — patience wins |
 
-me = Sagar()
-print(me.motto())
-```
-
-<br/>
-
-- 🔭 **Currently Learning:** JavaScript & Full-Stack Development
-- 💾 **Databases:** MySQL
-- 🐧 **Experience:** Comfortable with Linux commands & environments
-- 🎯 **2025 Goal:** Build meaningful projects & contribute to open-source
-- ⚡ **Fun Fact:** Debugging feels like solving a puzzle — patience wins
+</div>
 
 ---
 
