@@ -102,7 +102,7 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-SagarXdev23-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SagarXdev23)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagar-mishra)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagar-mishra-5035a4280/)
 
 </div>
 
