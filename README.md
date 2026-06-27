@@ -77,11 +77,13 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🚀 Currently Working On
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SagarXdev23&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy"/>
+![Full-Stack](https://img.shields.io/badge/Learning-Full--Stack%20Development-a78bfa?style=for-the-badge&logoColor=white)
+![DSA](https://img.shields.io/badge/Practicing-Data%20Structures%20%26%20Algorithms-6d28d9?style=for-the-badge&logoColor=white)
+![OpenSource](https://img.shields.io/badge/Goal-Open%20Source%20Contributions-4c1d95?style=for-the-badge&logoColor=white)
 
 </div>
 
