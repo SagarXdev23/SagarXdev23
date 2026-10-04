@@ -90,13 +90,17 @@
 
 ---
 
+---
+
 ## 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/a78bfa/SagarXdev23" alt="Sagar's GitHub Contribution Graph" width="100%"/>
+<img src="https://ghchart.rshah.org/SagarXdev23" alt="Sagar's GitHub Contribution Graph" width="100%"/>
 
 </div>
+
+---
 
 
 ## 🌐 Connect With Me
