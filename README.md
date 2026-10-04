@@ -94,11 +94,11 @@
 
 <div align="center">
 
-[![Sagar's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SagarXdev23&theme=tokyo-night&hide_border=true)](https://github.com/SagarXdev23)
+<img src="https://ghchart.rshah.org/a78bfa/SagarXdev23" alt="Sagar's GitHub Contribution Graph" width="100%"/>
 
 </div>
 
----
+
 ## 🌐 Connect With Me
 
 <div align="center">
