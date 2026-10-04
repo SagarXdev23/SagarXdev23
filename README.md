@@ -90,17 +90,15 @@
 
 ---
 
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SagarXdev23&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true" width="100%"/>
+[![Sagar's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SagarXdev23&theme=tokyo-night&hide_border=true)](https://github.com/SagarXdev23)
 
 </div>
----
 
+---
 ## 🌐 Connect With Me
 
 <div align="center">
