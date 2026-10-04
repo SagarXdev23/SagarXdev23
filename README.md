@@ -90,14 +90,15 @@
 
 ---
 
+---
+
 ## 📈 Contribution Graph
 
 <div align="center">
 
-[![Sagar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SagarXdev23&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SagarXdev23&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true" width="100%"/>
 
 </div>
-
 ---
 
 ## 🌐 Connect With Me
